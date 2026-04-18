@@ -13,10 +13,13 @@ A responsive React-based Tax Loss Harvesting interface simulating mock APIs and 
 ## Screenshots
 
 ### Pre-Harvesting View
-![Pre-Harvesting UI](./public/img1.png)
 
-### Post-Harvesting View (with savings)
-![Post-Harvesting UI](./public/img2.png)
+<div align="center">
+  <img src="public/img1.png" width="800" alt="AI Interview 1" />
+  <br/><br/>
+  <img src="public/img2.png" width="800" alt="AI Interview 2" />
+</div>
+
 
 ## Setup Instructions
 
