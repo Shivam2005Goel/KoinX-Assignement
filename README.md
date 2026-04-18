@@ -11,13 +11,12 @@ A responsive React-based Tax Loss Harvesting interface simulating mock APIs and 
 - **Tailwind CSS v4:** Uses the latest release for atomic class generation.
 
 ## Screenshots
-> **Note**: Please add screenshots of your application here before submission.
-> 
-> *Pre-Harvesting View:*
-> `![Pre-Harvesting UI](./path/to/img)`
-> 
-> *Post-Harvesting View (with savings):*
-> `![Post-Harvesting UI](./path/to/img)`
+
+### Pre-Harvesting View
+![Pre-Harvesting UI](./public/img1.png)
+
+### Post-Harvesting View (with savings)
+![Post-Harvesting UI](./public/img2.png)
 
 ## Setup Instructions
 
