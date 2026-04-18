@@ -1,5 +1,7 @@
 # Tax Loss Harvesting Tool
 
+🚀 **Live Deployment:** [https://shivam-koinx-assignment.netlify.app/](https://shivam-koinx-assignment.netlify.app/)
+
 A responsive React-based Tax Loss Harvesting interface simulating mock APIs and dynamic capital gains calculations.
 
 ## Features
